@@ -1,0 +1,7 @@
+Instruções Server DHCP
+
+Configurar DHCP
+Configurar IP estatico no DHCP Server
+Ligar PC com E CONFIGURAR IP ESTATICO
+Fazer DHCP Request no PC1
+Esperar que o Request foi sucessfull
